@@ -28,8 +28,8 @@ Host OS
 Desktop 버전의 이미지를 다운 받는다. 
 
 
-> Sever 버전의 경우 Text copy & past 설정의 어려움이 있었다.
+> Sever 버전의 경우 'Host OS'에서 'VirtualBox OS'로 Text copy & past Plug-in 설치 버전을 찾을 수 없었다.
 
 ![Ubuntu 설치](/assets/img/environmen2.PNG)
 
-다음 장에서 본격적인 `Kubernetes` `Master` `Minion` 구성을 위한 설치 및 설정해 보도록 한다.
+다음 장에서 본격적인 `Kubernetes` `Master` `Minion` 구성을 위한 설치 및 설정을 진행해 보도록 하겠습니다.
