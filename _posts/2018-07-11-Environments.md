@@ -28,7 +28,7 @@ Host OS
 Desktop 버전의 이미지를 다운 받는다. 
 
 
-> Sever 버전의 경우 'Host OS'에서 'VirtualBox OS'로 Text copy & past Plug-in 설치 버전을 찾을 수 없었다.
+> Sever 버전의 경우 [Host OS]에서 [VirtualBox OS]로 Text copy & past Plug-in 설치 버전을 찾을 수 없었다.
 
 ![Ubuntu 설치](/assets/img/environmen2.PNG)
 
