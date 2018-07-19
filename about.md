@@ -9,9 +9,9 @@ title: About
 고객과 함께 어제보다 더 나은 오늘을 만들어 가는 기업
 
 ## Organization
-Platform 기반의 SI 사업부 
-LCMS Package SM 사업부 
-R&D 연구소
+- Platform 기반의 SI 사업부 
+- LCMS Package SM 사업부 
+- R&D 연구소
 
 
 ## Our Sites
