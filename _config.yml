@@ -17,7 +17,7 @@ title: 루다소프트 기술 블로그 입니다.
 email: developers@rudasoft.com
 description: >- # this means to ignore newlines until "baseurl:"
   루다소프트 기술 스택 및 개발 과정을 블로깅 할 예정 입니다.
-  우리 모두의 성장과 루다소프트에서 탄생한 모든 오브젝트가 세상을 이롭게 하길 희망 합니다.
+  모두의 성장과 루다소프트에서 탄생한 오브젝트가 세상을 이롭게 하길 희망 합니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rudasoft.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rudasoft
